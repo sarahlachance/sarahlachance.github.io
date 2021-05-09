@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarah Lachance"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Sarah Lachance"
 description              : &description "Professional Website"
