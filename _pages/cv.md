@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://sarahlachance.github.io/files/breton_telephone.pdf)
+
+<embed src="https://sarahlachance.github.io/files/Sarah_Lachance-CV.pdf" type="application/pdf" width="600px" height="500px" />
