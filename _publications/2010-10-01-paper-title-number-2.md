@@ -1,15 +1,26 @@
 ---
-title: "Paper Title Number 2"
+title: "Policy Design, Cost Information and Support for
+Guaranteed Income"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2020-07-28-policy
+excerpt: 'This report presents the results of two studies on support for guaranteed income using survey
+experiments conducted on British Columbia voters. In the first, we test the effect of different
+policy designs that vary on characteristics like benefit type and eligibility. In the second,
+we select the two policy designs with the highest support in Study 1 and we test the effect of
+providing information about their cost on support. We also look at the interaction between
+demographic variables, like income and education, and our experimental variables.
+'
+date: 2020-07-28
+venue: 'BC Basic Income Panel'
+paperurl: 'https://bcbasicincomepanel.ca/wp-content/uploads/2021/02/Policy_Design_Cost_Information_and_Support_for_Guaranteed_Income.pdf'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This report presents the results of two studies on support for guaranteed income using survey
+experiments conducted on British Columbia voters. In the first, we test the effect of different
+policy designs that vary on characteristics like benefit type and eligibility. In the second,
+we select the two policy designs with the highest support in Study 1 and we test the effect of
+providing information about their cost on support. We also look at the interaction between
+demographic variables, like income and education, and our experimental variables.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://bcbasicincomepanel.ca/wp-content/uploads/2021/02/Policy_Design_Cost_Information_and_Support_for_Guaranteed_Income.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
