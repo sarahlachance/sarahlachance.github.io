@@ -1,15 +1,30 @@
 ---
-title: "Paper Title Number 1"
+title: "Telephone versus Online Survey Modes for Election
+Studies: Comparing Canadian Public Opinion and
+Vote Choice in the 2015 Federal Election"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2017-12-telephone
+excerpt: 'Election studies must optimize on sample size, cost and data quality. The 2015
+Canadian Election Study was the first CES to employ a full mixed-mode design, aiming to take
+advantage of the opportunities of each mode while preserving enough commonality to compare
+them. This paper examines the phone interviews conducted by ISR-York and the online questionnaires
+from panellists purchased from a sample provider. We compare data quality and representativeness.
+We conduct a comprehensive comparison of the distributions of responses across modes
+and a comparative analysis of inferences about voting. We find that the cost/power advantages of
+the online mode will likely make it the mode of choice for subsequent election studies.'
+date: 2017-12
+venue: 'Canadian Journal of Political Science / Revue canadienne de science politique'
+paperurl: 'http://sarahlachance.github.io/files/breton_telephone.pdf'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Election studies must optimize on sample size, cost and data quality. The 2015
+Canadian Election Study was the first CES to employ a full mixed-mode design, aiming to take
+advantage of the opportunities of each mode while preserving enough commonality to compare
+them. This paper examines the phone interviews conducted by ISR-York and the online questionnaires
+from panellists purchased from a sample provider. We compare data quality and representativeness.
+We conduct a comprehensive comparison of the distributions of responses across modes
+and a comparative analysis of inferences about voting. We find that the cost/power advantages of
+the online mode will likely make it the mode of choice for subsequent election studies.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://sarahlachance.github.io/files/breton_telephone.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
