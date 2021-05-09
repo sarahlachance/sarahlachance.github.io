@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sarah Lachance"
 title_separator          : "-"
 name                     : &name "Sarah Lachance"
-description              : &description "Professional Website"
+description              : &description "Ph.D candidate at Universeity of British Columbia"
 url                      : "https://sarahlachance.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/slachance" # the subpath of your site, e.g. "/blog"
 repository               : "sarahlachance/sarahlachance.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sarah Lachance"
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   bio              : "Sarah Lachance is a Political Science Ph.D. Candidate at the University of British Columbia.Her research investigates elections and political behavior in a comparative perspective, using existing surveys as well as original survey experiments. Her dissertation analyzes how institutions shape voter information-processing and decision-making in Canada, the United States and Germany."
   location         : "Vancouver, BC, Canada"
   employer         :
