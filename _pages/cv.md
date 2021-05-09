@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-{{% staticref "files/Sarah-Lachance-CV.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/Sarah_Lachance-CV.pdf" %}}Download my CV{{% /staticref %}}
