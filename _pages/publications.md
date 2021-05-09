@@ -1,6 +1,9 @@
 ---
 layout: archive
 title: "Publications"
+subcategories:
+    - subtitle: "Peer-reviewed"
+    - subtitle: "Other Academic Work"
 permalink: /publications/
 author_profile: true
 ---
