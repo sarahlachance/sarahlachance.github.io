@@ -14,7 +14,7 @@ and a comparative analysis of inferences about voting. We find that the cost/pow
 the online mode will likely make it the mode of choice for subsequent election studies.'
 date: 2017-12-01
 venue: 'Canadian Journal of Political Science / Revue canadienne de science politique'
-paperurl: 'http://sarahlachance.github.io/files/breton_telephone.pdf'
+paperurl: files/Breton, Cutler, Lachance & Mierke-zatwarnicki (2017) telephone_versus_online_survey_modes_for_election_studies_comparing_canadian_public_opinion_and_vote_choice_in_the_2015_federal_election.pdf'
 
 ---
 Election studies must optimize on sample size, cost and data quality. The 2015
@@ -26,5 +26,5 @@ We conduct a comprehensive comparison of the distributions of responses across m
 and a comparative analysis of inferences about voting. We find that the cost/power advantages of
 the online mode will likely make it the mode of choice for subsequent election studies.
 
-[Download paper here](http://sarahlachance.github.io/files/breton_telephone.pdf)
+[Download paper here](files/Breton, Cutler, Lachance & Mierke-zatwarnicki (2017) telephone_versus_online_survey_modes_for_election_studies_comparing_canadian_public_opinion_and_vote_choice_in_the_2015_federal_election.pdf)
 
