@@ -12,7 +12,7 @@ from panellists purchased from a sample provider. We compare data quality and re
 We conduct a comprehensive comparison of the distributions of responses across modes
 and a comparative analysis of inferences about voting. We find that the cost/power advantages of
 the online mode will likely make it the mode of choice for subsequent election studies.'
-date: 2017-12
+date: 2017-12-01
 venue: 'Canadian Journal of Political Science / Revue canadienne de science politique'
 paperurl: 'http://sarahlachance.github.io/files/breton_telephone.pdf'
 
