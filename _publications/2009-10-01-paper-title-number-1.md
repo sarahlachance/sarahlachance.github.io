@@ -3,7 +3,7 @@ title: "Telephone versus Online Survey Modes for Election
 Studies: Comparing Canadian Public Opinion and
 Vote Choice in the 2015 Federal Election"
 collection: publications
-permalink: /publications/2017-12-01-telephone
+permalink: /publications/2009-10-01-paper-title-number-1
 excerpt: 'Election studies must optimize on sample size, cost and data quality. The 2015
 Canadian Election Study was the first CES to employ a full mixed-mode design, aiming to take
 advantage of the opportunities of each mode while preserving enough commonality to compare
