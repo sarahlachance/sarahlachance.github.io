@@ -17,7 +17,7 @@ author_profile: true
 
 ## Peer-reviewed
 
-[Telephone versus Online Survey Modes for Election Studies: Comparing Canadian Public Opinion and Vote Choice in the 2015 Federal Election](http://sarahlachance.github.io/files/breton_telephone.pdf)
+[Telephone versus Online Survey Modes for Election Studies: Comparing Canadian Public Opinion and Vote Choice in the 2015 Federal Election](http://sarahlachance.github.io/files/breton_telephone.pdf) (with Charles Breton, Fred Cutler and Alex Mierke-Zatwarnicki)
 
 Published in _Canadian Journal of Political Science / Revue canadienne de science politique, 2017_
 
@@ -34,7 +34,7 @@ the online mode will likely make it the mode of choice for subsequent election s
 
 ## Other Academic Work
 
-[Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/wp-content/uploads/2021/02/Policy_Design_Cost_Information_and_Support_for_Guaranteed_Income.pdf)
+[Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/wp-content/uploads/2021/02/Policy_Design_Cost_Information_and_Support_for_Guaranteed_Income.pdf)(with Richard Johnston and Alan Jacobs)
 
 Published on [BC Basic Income Panel](https://bcbasicincomepanel.ca/), 2020
 
