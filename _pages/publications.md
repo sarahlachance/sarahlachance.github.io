@@ -34,7 +34,7 @@ the online mode will likely make it the mode of choice for subsequent election s
 
 ## Other Academic Work
 
-[Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/wp-content/uploads/2021/02/Policy_Design_Cost_Information_and_Support_for_Guaranteed_Income.pdf)(with Richard Johnston and Alan Jacobs)
+[Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/wp-content/uploads/2021/02/Policy_Design_Cost_Information_and_Support_for_Guaranteed_Income.pdf) (with Richard Johnston and Alan Jacobs)
 
 Published on [BC Basic Income Panel](https://bcbasicincomepanel.ca/), 2020
 
