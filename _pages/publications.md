@@ -17,7 +17,7 @@ author_profile: true
 
 ## Peer-reviewed
 
-[Telephone versus Online Survey Modes for Election Studies: Comparing Canadian Public Opinion and Vote Choice in the 2015 Federal Election](http://sarahlachance.github.io/files/breton_telephone.pdf) (with Charles Breton, Fred Cutler and Alex Mierke-Zatwarnicki)
+[Telephone versus Online Survey Modes for Election Studies: Comparing Canadian Public Opinion and Vote Choice in the 2015 Federal Election](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/abs/telephone-versus-online-survey-modes-for-election-studies-comparing-canadian-public-opinion-and-vote-choice-in-the-2015-federal-election/B3F64CA440B8E927853DA71AD8BFFB69) (with Charles Breton, Fred Cutler and Alex Mierke-Zatwarnicki)
 
 Published in _Canadian Journal of Political Science / Revue canadienne de science politique, 2017_
 
