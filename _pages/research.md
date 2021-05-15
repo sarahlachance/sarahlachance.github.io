@@ -26,7 +26,7 @@ In another project with Micheal Weaver, we challenge the conventional assumption
 
 My other main research area is political behavior defined broadly, in and outside and electoral context. 
 
-In [What Role Does Affective Proximity Play in Canadian Elections?](Lachance_Beauvais_What_Role_Does_Affective_Proximity_Play_in_Canadian_Elections___Draft_for_presentation.pdf) (with Edaana Beauvais), we analyze how patterns in group-based affect in Canada reflect a polarized pluralism system and how they influence vote choice across seven elections from 1993 to 2019. 
+In [What Role Does Affective Proximity Play in Canadian Elections?](Lachance_Beauvais_What_Role_Does_Affective_Proximity_Play_in_Canadian_Elections___Draft_for_presentation.pdf) (with Edana Beauvais), we analyze how patterns in group-based affect in Canada reflect a polarized pluralism system and how they influence vote choice across seven elections from 1993 to 2019. 
 
 In [Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/) (with Richard Johnston and Alan Jacobs) we analyze how framing effects influence support for basic income in British Columbia.
 
