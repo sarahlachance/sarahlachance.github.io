@@ -12,7 +12,7 @@ A normative view of democracy is that campaigns serve an essential function by d
 My dissertation analyzes how institutions— the electoral system and the party system —provide incentives for voters to use policy information or, alternatively, to use cognitive shortcuts. To do so, I compare the influence of policy information on vote choice in the United States, Canada and Germany using data from original survey experiments and Twitter datasets as well as existing surveys. I argue that a bipartisan and polarized system like the United States provides incentives for using party labels as cognitive shortcuts, whereas multi-party systems incentivize the use of policy information because of their cross-cutting issue dimensions. Furthermore, by determining the extent of executive power-sharing, the electoral system influences the role of policy information from third parties in the vote decision-making process. 
 
 
-## Campaign effects
+## Campaign Effects
 
 In the United States, forecasting models often predict electoral outcomes long before the electoral campaign starts. This begs the question: do campaigns matter?  Some argue that campaigns only have minimal effects: they merely activate “fundamentals”, understood as long-term structural forces, like the state of the economy and party identification. The counterpoint is that structural forces are only part of the story: the strategies of the candidates determine whether they are in fact activated, and can even induce new fundamentals that produce a durable shift in public opinion. 
 
@@ -22,7 +22,7 @@ In another project with Micheal Weaver, we challenge the conventional assumption
 
 
 
-## Political behaviour
+## Political Behaviour
 
 My other main research area is political behavior defined broadly, in and outside and electoral context. 
 
