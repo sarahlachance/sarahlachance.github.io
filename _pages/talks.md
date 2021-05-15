@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-[Lachance_Beauvais_What_Role_Does_Affective_Proximity_Play_in_Canadian_Elections___Draft_for_presentation.pdf] (with Edana Beauvais)
+[What Role Does Affective Proximity Play in Canadian Elections?](Lachance_Beauvais_What_Role_Does_Affective_Proximity_Play_in_Canadian_Elections___Draft_for_presentation.pdf) (with Edana Beauvais)
 
 Voters' feelings toward social and political groups can impact their political behaviour. 
 How does group-based affect— voters' relatively warmer or colder feelings toward different groups —impact their vote choice? 
