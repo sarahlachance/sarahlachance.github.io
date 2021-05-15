@@ -3,6 +3,8 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+header:
+  teaser: /research/question.jpg
 ---
 
 ## Institutions and Voter Decision-making
