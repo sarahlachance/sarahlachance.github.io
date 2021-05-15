@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Working Papers"
-permalink: /talks/
+permalink: /working/
 author_profile: true
 ---
 
@@ -20,3 +20,17 @@ different elections from 1993 to 2019 in Quebec and Canada
 outside Quebec. Our results suggest that voters' group-based affect contributes to polarized
 pluralism in the party system (Johnston, 2017), but that fault lines are also emerging.
 
+[The Predictable Campaign: Theory and Evidence](apsa-campaigns-paper-johnston-lachance.pdf) (with Richard Johnston)
+
+Most of what we know about electoral campaigns originates in the United States. And
+what we know emphasizes the predictability of outcomes and the role of campaigns in
+producing that predictability. This forecasting success reflects the operation of what are
+styled as “fundamentals,” factors that campaigns activate in roughly similar ways election
+after election. Although some analysts suggest that the US pattern travels abroad, the
+evidence is fragmentary and never rests on quite the same basis as the US original. To the
+extent that US findings reflect the operation of universals, notably in voter cognition, they
+should be replicated elsewhere. But critical to US analyses— sometimes considered
+explicitly but more often merely assumed —are institutional conditions: timing, money, the
+electoral system, the effective number of parties, parties’ internal organization, and the
+sheer scale of the US economy. Our tests of the arguments employ survey data from the US, Germany, and Canada.
+The comparative record is mixed and reveals contingencies that underlie the US case.
