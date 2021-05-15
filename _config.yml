@@ -14,7 +14,7 @@ description              : &description "Professional Website"
 url                      : "https://sarahlachance.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/slachance" # the subpath of your site, e.g. "/blog"
 repository               : "sarahlachance/sarahlachance.github.io"
-teaser                   : "vote_trends.jpg"
+teaser                   : "vote_trends.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
