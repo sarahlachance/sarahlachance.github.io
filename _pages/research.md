@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  teaser: /images/question.jpg
+  teaser: /images/question.png
 ---
 
 ## Institutions and Voter Decision-making
