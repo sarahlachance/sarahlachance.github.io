@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Sarah Lachance"
-excerpt: "About me"
+title: "About me"
+excerpt: "Sarah Lachance"
 author_profile: true
 redirect_from: 
   - /about/
