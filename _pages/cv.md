@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-<embed src="https://sarahlachance.github.io/files/Sarah_Lachance-CV.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://sarahlachance.github.io/files/Sarah_Lachance_CV.pdf" type="application/pdf" width="600px" height="500px" />
