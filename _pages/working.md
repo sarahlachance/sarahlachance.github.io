@@ -5,6 +5,21 @@ permalink: /working/
 author_profile: true
 ---
 
+[Campaign Effects on Strategic Voting for Minor
+Parties in Germany](Lachance_Campaign_Effects_on_Strategic_Voting_for_Minor_Parties_in_Germany.pdf)
+
+This study uses a novel campaign effects model of strategic voting for minor parties in
+multiparty democracies that compares the relative importance of coalition insurance voting,
+compensatory voting, and a hybrid strategy. To do so, it uses data on the 2013 and 2017
+German federal elections from campaign-period surveys, polls and an original dataset of the
+candidates’ tweets about policy issues. The results show evidence of policy-driven voters using
+a hybrid strategy in 2013 and a compensatory strategy in 2017. There is no evidence
+of coalition insurance voting in these elections. These findings reaffirm the view that the
+campaign plays a crucial role in the decision-making process of voters, in this case by allowing
+them to target coalitions based on policy. Yet, the implications of these findings for
+electoral outcomes are limited: depending on the case, 0.5% to 1.7% voters are estimated to
+be strategic.
+
 [What Role Does Affective Proximity Play in Canadian Elections?](Lachance_Beauvais_What_Role_Does_Affective_Proximity_Play_in_Canadian_Elections___Draft_for_presentation.pdf) (with Edana Beauvais)
 
 Voters' feelings toward social and political groups can impact their political behaviour. 
@@ -34,3 +49,4 @@ explicitly but more often merely assumed —are institutional conditions: timing
 electoral system, the effective number of parties, parties’ internal organization, and the
 sheer scale of the US economy. Our tests of the arguments employ survey data from the US, Germany, and Canada.
 The comparative record is mixed and reveals contingencies that underlie the US case.
+
