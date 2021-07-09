@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [Campaign Effects on Strategic Voting for Minor
-Parties in Germany](https://www.researchgate.net/publication/353106759_Campaign_Effects_on_Strategic_Voting_for_Minor_Parties_in_Germany)
+Parties in Germany](https://doi.org/10.13140/RG.2.2.27042.96961)
 
 This study uses a novel campaign effects model of strategic voting for minor parties in
 multiparty democracies that compares the relative importance of coalition insurance voting,
@@ -20,7 +20,7 @@ them to target coalitions based on policy. Yet, the implications of these findin
 electoral outcomes are limited: depending on the case, 0.5% to 1.7% voters are estimated to
 be strategic.
 
-[What Role Does Affective Proximity Play in Canadian Elections?](https://www.researchgate.net/publication/351605542_What_Role_Does_Affective_Proximity_Play_in_Canadian_Elections) (with Edana Beauvais)
+[What Role Does Affective Proximity Play in Canadian Elections?](https://doi.org/10.13140/RG.2.2.29053.49121) (with Edana Beauvais)
 
 Voters' feelings toward social and political groups can impact their political behaviour. 
 How does group-based affect— voters' relatively warmer or colder feelings toward different groups —impact their vote choice? 
