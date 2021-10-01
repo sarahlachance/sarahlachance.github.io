@@ -20,7 +20,7 @@ In the United States, forecasting models often predict electoral outcomes long b
 
 In [The Predictable Campaign: Theory and Evidence](/files/apsa-campaigns-paper-johnston-lachance.pdf) (with Richard Johnston), we investigate how the institutional context conditions campaign effects.
 
-In another project with Micheal Weaver, we challenge the conventional assumption that Andrew Johnson’s “Swing Around the Circle” campaign was detrimental and argue that it caused a sustained reduction in the Republican vote share in congressional elections.
+In another project with Michael Weaver, we challenge the conventional assumption that Andrew Johnson’s “Swing Around the Circle” campaign was detrimental and argue that it caused a sustained reduction in the Republican vote share in congressional elections.
 
 
 
@@ -28,7 +28,7 @@ In another project with Micheal Weaver, we challenge the conventional assumption
 
 My other main research area is political behaviour defined broadly, in and outside and electoral context. 
 
-In [What Role Does Affective Proximity Play in Canadian Elections?](https://doi.org/10.13140/RG.2.2.29053.49121) (with Edana Beauvais), we analyze how patterns in group-based affect in Canada reflect a polarized pluralism system and how they influence vote choice across seven elections from 1993 to 2019. 
+In [What Role Does Affective Proximity Play in Canadian Elections?](https://doi.org/10.13140/RG.2.2.29053.49121/1) (with Edana Beauvais), we analyze how patterns in group-based affect in Canada reflect a polarized pluralism system and how they influence vote choice across seven elections from 1993 to 2019. 
 
 In [Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/papers/?s=%22Policy+Design%2C+Cost+Information+and+Support+for+Guaranteed+Income%22) (with Richard Johnston and Alan Jacobs) we analyze how framing effects influence support for basic income in British Columbia.
 
