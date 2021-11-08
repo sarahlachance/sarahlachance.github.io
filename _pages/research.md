@@ -26,10 +26,10 @@ In another project with Michael Weaver, we challenge the conventional assumption
 
 ## Political Behaviour
 
-My other main research area is political behaviour defined broadly, in and outside and electoral context. 
+My other main research area is political behaviour defined broadly, inside and outside and electoral context. 
 
-In [What Role Does Affective Proximity Play in Canadian Elections?](https://doi.org/10.13140/RG.2.2.29053.49121/1) (with Edana Beauvais), we analyze how patterns in group-based affect in Canada reflect a polarized pluralism system and how they influence vote choice across seven elections from 1993 to 2019. 
+In [What Role Does Affective Proximity Play in Canadian Elections?](https://doi.org/10.13140/RG.2.2.29053.49121/1) (with Edana Beauvais), we analyze whether the relationship between group-based affect and the vote in Canada reflects a polarized pluralism system across seven elections from 1993 to 2019. 
 
-In [Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/papers/?s=%22Policy+Design%2C+Cost+Information+and+Support+for+Guaranteed+Income%22) (with Richard Johnston and Alan Jacobs) we analyze how framing effects influence support for basic income in British Columbia.
+In [Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/papers/?s=%22Policy+Design%2C+Cost+Information+and+Support+for+Guaranteed+Income%22) (with Richard Johnston and Alan Jacobs) we analyze how different information frames affect support for basic income in British Columbia.
 
 
