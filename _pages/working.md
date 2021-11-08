@@ -16,9 +16,7 @@ candidates’ tweets about policy issues. The results show evidence of policy-dr
 a hybrid strategy in 2013 and a compensatory strategy in 2017. There is no evidence
 of coalition insurance voting in these elections. These findings reaffirm the view that the
 campaign plays a crucial role in the decision-making process of voters, in this case by allowing
-them to target coalitions based on policy. Yet, the implications of these findings for
-electoral outcomes are limited: depending on the case, 0.5% to 1.7% voters are estimated to
-be strategic.
+them to target coalitions based on policy. 
 
 [What Role Does Affective Proximity Play in Canadian Elections?](https://doi.org/10.13140/RG.2.2.29053.49121/1) (with Edana Beauvais)
 
