@@ -26,7 +26,7 @@ In another project with Michael Weaver, we challenge the conventional assumption
 
 ## Political Behaviour
 
-My other main research area is political behaviour defined broadly, inside and outside and electoral context. 
+My other main research area is political behaviour defined broadly, inside and outside the electoral context. 
 
 In [What Role Does Affective Proximity Play in Canadian Elections?](https://doi.org/10.13140/RG.2.2.29053.49121/1) (with Edana Beauvais), we analyze whether the relationship between group-based affect and the vote in Canada reflects a polarized pluralism system across seven elections from 1993 to 2019. 
 
