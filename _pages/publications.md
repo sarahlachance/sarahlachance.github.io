@@ -31,6 +31,12 @@ and a comparative analysis of inferences about voting. We find that the cost/pow
 the online mode will likely make it the mode of choice for subsequent election studies.
 
 
+The Predictable Campaign: Theory and Evidence (with Richard Johnston)
+
+Forthcoming in _Electoral Studies_
+
+Are campaigns epiphenomena? The dominant answer in the US literature seems to be Yes. Outcomes are driven by ‘fundamental’ considerations in place before the campaign begins, such that dynamics within the campaign reflect the elimination of ‘accidental’ considerations. Multi-country comparisons, where they exist, tend to be fragmentary. Where they are not fragmentary, they are taken from so high an altitude that critical interpretive details are lost. Also fragmentary, surprisingly, is documentation of the US case itself. This paper identifies two overlapping but distinct claims: about frontrunners and about incumbents.  We also identify an insufficiently recognized fact, that the very idea of a ‘fundamental’ is contested, and that this broadens the scope for potential within-campaign dynamics. We employ rolling cross-section survey data from the US, Germany, Italy, New Zealand, and Canada. 
+
 
 ## Other Academic Work
 
