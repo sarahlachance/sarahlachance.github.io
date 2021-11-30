@@ -31,7 +31,7 @@ and a comparative analysis of inferences about voting. We find that the cost/pow
 the online mode will likely make it the mode of choice for subsequent election studies.
 
 
-The Predictable Campaign: Theory and Evidence (with Richard Johnston)
+<u>The Predictable Campaign: Theory and Evidence</u> (with Richard Johnston)
 
 Forthcoming in _Electoral Studies_
 
