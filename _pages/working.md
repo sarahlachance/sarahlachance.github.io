@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [Campaign Effects on Strategic Voting for Minor
-Parties: Evidence from Germany](https://doi.org/10.13140/RG.2.2.27042.96961/1)
+Parties: Evidence from Germany](https://doi.org/10.13140/RG.2.2.12891.69929)
 
 This study uses a novel campaign effects model of strategic voting for minor parties in multiparty democracies that compares the relative importance of coalition insurance voting, compensatory voting, and a hybrid strategy. To do so, it uses data on the 2013 and 2017 German federal elections from campaign-period surveys, polls and an original dataset of the candidates' tweets about policy issues. The results show evidence of policy-driven voters using a hybrid strategy in 2013 and a compensatory strategy in 2017. There is no evidence of coalition insurance voting in these elections. These findings reaffirm the view that the campaign plays a crucial role in the decision-making process of voters, in this case by allowing them to target coalitions based on policy. Depending on the case, 5% to 11% of the voters for the minor parties targeted by these strategies are estimated to be strategic. 
 
