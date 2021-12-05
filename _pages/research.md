@@ -25,7 +25,7 @@ In the United States, forecasting models often predict electoral outcomes long b
 
 In [The Predictable Campaign: Theory and Evidence](/files/apsa-campaigns-paper-johnston-lachance.pdf) (with Richard Johnston), we investigate how the institutional context conditions campaign effects.
 
-In another project with Michael Weaver, we challenge the conventional assumption that Andrew Johnson’s “Swing Around the Circle” campaign was detrimental and argue that it caused a sustained reduction in the Republican vote share in congressional elections.
+In another project with Michael Weaver, we challenge the conventional assumption that Andrew Johnson’s “Swing Around the Circle” campaign was detrimental and show that it caused a sustained reduction in the Republican vote share in congressional elections.
 
 
 
