@@ -23,7 +23,7 @@ Finally, my third study addresses a puzzle that arises from the rational choice 
 
 In the United States, forecasting models often predict electoral outcomes long before the electoral campaign starts. This begs the question: do campaigns matter?  Some argue that campaigns only have minimal effects: they merely activate “fundamentals”, understood as long-term structural forces, like the state of the economy and party identification. The counterpoint is that structural forces are only part of the story: the strategies of the candidates determine whether they are in fact activated, and can even induce new fundamentals that produce a durable shift in public opinion. 
 
-In [The Predictable Campaign: Theory and Evidence](/files/apsa-campaigns-paper-johnston-lachance.pdf) (with Richard Johnston), we investigate how the institutional context conditions campaign effects.
+In [The Predictable Campaign: Theory and Evidence](https://authors.elsevier.com/a/1eCKv_5yMsmGYm) (with Richard Johnston), we investigate how the institutional context conditions campaign effects.
 
 In another project with Michael Weaver, we challenge the conventional assumption that Andrew Johnson’s “Swing Around the Circle” campaign was detrimental and show that it caused a sustained reduction in the Republican vote share in congressional elections.
 
