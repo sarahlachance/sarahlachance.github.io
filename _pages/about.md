@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Political Science Ph.D. Candidate at the University of British Columbia (major: Comparative Politics; minor: Canadian Politics).
+I am a postdoctoral fellow at PEARL in the Munk School of Global Affairs & Public Policy at the University of Toronto.
 
 My research investigates elections and political behaviour using quantitative methods with observational and experimental data. 
-My dissertation analyzes how institutions shape voter information-processing and decision-making in Canada, the United States and Germany. 
+My PhD dissertation analyzed how structural factors shape voter decision-making in Canada, the United States and Germany. 
   
