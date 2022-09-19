@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at PEARL in the Munk School of Global Affairs & Public Policy at the University of Toronto.
+I am a postdoctoral fellow at the Policy, Elections & Representation Lab (PEARL) in the Munk School of Global Affairs & Public Policy at the University of Toronto.
 
 My research investigates elections and political behaviour using quantitative methods with observational and experimental data. 
 My PhD dissertation analyzed how information and structural factors shape voter decision-making in Canada, the United States and Germany. 
