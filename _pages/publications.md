@@ -17,7 +17,7 @@ author_profile: true
 
 ## Peer-reviewed
 
-[Group-based Affect and the Canadian Party System] (with Edana Beauvais)
+**Group-based Affect and the Canadian Party System** (with Edana Beauvais)
 
 Forthcoming in _Canadian Journal of Political Science / Revue canadienne de science politique_, 2024
 
