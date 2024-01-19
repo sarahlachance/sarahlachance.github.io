@@ -17,9 +17,9 @@ author_profile: true
 
 ## Peer-reviewed
 
-**Group-based Affect and the Canadian Party System** (with Edana Beauvais)
+[Group-based Affect and the Canadian Party System](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/groupbased-affect-and-the-canadian-party-system/94882AB254E51E915124914C015A5BAD?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) (with Edana Beauvais)
 
-Forthcoming in _Canadian Journal of Political Science / Revue canadienne de science politique_, 2024
+Published in _Canadian Journal of Political Science / Revue canadienne de science politique_, 2024
 
 In terms of party systems, Canada's is an outlier. In this article, we develop Johnston's account of Canada's polarized pluralism in three ways. First, we link the literature on party systems to social identity theory. Second, we make an empirical contribution by directly testing Johnston's claim that inter-group affect plays a central role in shaping the dynamics of the party system. Using Canadian Election Study (CES) data from seven elections, we offer strong empirical support for the theory of polarized pluralism. Congruent with existing research, we find that the most important feature summarizing group-based affect in Canadian politics corresponds with the ideological Left-Right divide; but we also find that feelings toward groups on a second, uncorrelated axis (feelings toward Quebec and minority groups) shape vote choice. Yet, our results show that fault lines in the polarized pluralist structure of the Canadian party system are emerging.
 
