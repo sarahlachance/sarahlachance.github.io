@@ -56,7 +56,12 @@ the online mode will likely make it the mode of choice for subsequent election s
 
 [Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/papers/?s=%22Policy+Design%2C+Cost+Information+and+Support+for+Guaranteed+Income%22) (with Richard Johnston and Alan Jacobs)
 
-Published on [BC Basic Income Panel](https://bcbasicincomepanel.ca/), 2020
+Published in [BC Basic Income Panel](https://bcbasicincomepanel.ca/), 2020
 
 This report presents the results of two studies on support for guaranteed income using survey experiments conducted on British Columbia voters. In the first, we test the effect of different policy designs that vary on characteristics like benefit type and eligibility. In the second, we select the two policy designs with the highest support in Study 1 and we test the effect of providing information about their cost on support. We also look at the interaction between demographic variables, like income and education, and our experimental variables.
+
+**L'impact de la distance, de la densité et du lieu de vote sur le taux de participation** (with Marc André Bodet and Audrey E. Brennan), 
+Published in *Cahier de recherche électorale et parlementaire (Chaire de recherche sur la démocratie et les instiutions parlementaires, Université Laval)*, 2024
+
+This research note looks at the impact of the distance to the polling station and the type of building where this station is situated on electoral participation. Using official electoral and geographical data at the voting subdivision level in two SMP elections in the province of Quebec, we estimate within-unit effects of distance and location. We show that living farther away from the voting location has a non-linear and negative impact on turnout. We also show that polling stations that are situated in buildings with certain functions (educational and religious/cultural) may also affect turnout.
 
