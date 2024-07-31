@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the Policy, Elections & Representation Lab (PEARL) in the Munk School of Global Affairs & Public Policy at the University of Toronto.
+I am a Postdoctoral Fellow affiliated with POLPOP-II, a comparative international study of regional and national elected representatives. I am a visiting scholar at the Policy, Elections & Representation Lab (PEARL) in the University of Toronto.
 
-I use a comparative approach to investigate questions related to political psychology and political behaviour. To answer these questions, I use mainly quantitative methods with observational and experimental data. My main research focus is the influence of institutions on the decision-making process of elites and voters. My broader research interests include elections, campaign effects and representation.
+My research investigates questions related to political psychology and political behaviour in Canada and other democracies. I am particularly interested in how voters and politicians make decisions, and how it impacts democratic representation. To answer these questions, I use mostly quantitative methods with observational and experimental data. 
