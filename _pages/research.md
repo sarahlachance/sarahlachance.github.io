@@ -18,14 +18,6 @@ In contrast, [in another study on Germany](https://doi.org/10.1016/j.electstud.2
 Finally, my third study addresses a puzzle that arises from the rational choice literature, which assumes that voters are risk-averse: if voters dislike ambiguity, why do electoral candidates routinely take ambiguous policy positions by making vague or contradictory statements? Using an ecological rationality theoretical framework, I argue that voters use the ambiguity of policy statements by major party candidates as a heuristic for assessing their positions relative to clear centrist candidates. I hypothesize that they take ambiguity as signalling higher variance in potential policy positions, hence a higher likelihood of holding non-centrist policy positions compared to clear centrist candidates. Using an experiment fielded in Canada, the United States and Germany, I find that policy ambiguity attracts voters who sit between the center and the extremes, yet it does so without repelling centrist and extremist voters. Hence it offers a solution to the puzzle and explains why policy ambiguity is an attractive strategy for electoral candidates.
 
 
-
-## Campaign Effects
-
-In the United States, forecasting models often predict electoral outcomes long before the electoral campaign starts. This begs the question: do campaigns matter?  Some argue that campaigns only have minimal effects: they merely activate “fundamentals”, understood as long-term structural forces, like the state of the economy and party identification. The counterpoint is that structural forces are only part of the story: the strategies of the candidates determine whether they are in fact activated, and can even induce new fundamentals that produce a durable shift in public opinion. 
-
-In [The Predictable Campaign: Theory and Evidence](https://authors.elsevier.com/a/1eCKv_5yMsmGYm) (with Richard Johnston), we investigate how the institutional context conditions campaign effects.
-
-
 ## Political Behaviour
 
 My other main research area is political behaviour defined broadly, inside and outside the electoral context. 
@@ -33,5 +25,10 @@ My other main research area is political behaviour defined broadly, inside and o
 In [Group-based Affect and the Canadian Party System](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/groupbased-affect-and-the-canadian-party-system/94882AB254E51E915124914C015A5BAD?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) (with Edana Beauvais), we analyze whether the relationship between group-based affect and the vote in Canada reflects a polarized pluralism system across seven elections from 1993 to 2019. 
 
 In [Policy Design, Cost Information and Support for Guaranteed Income](https://bcbasicincomepanel.ca/papers/?s=%22Policy+Design%2C+Cost+Information+and+Support+for+Guaranteed+Income%22) (with Richard Johnston and Alan Jacobs) we analyze how different information frames affect support for basic income in British Columbia.
+
+## Democratic Representation
+
+In *Politicians’ Theories of Voting Behavior (forthcoming in APSR)* (with Jack Lucas et al.), we investigate politicians’ positions on eight central theoretical debates in the area of elections and voting behavior and compare politicians’ theories to those held by ordinary citizens. Using data from face-to-face interviews with nearly 1,000 politicians in eleven countries, together with corresponding surveys of more than 12,000 ordinary citizens, we show that politicians overwhelmingly hold thin, mini- malist, “democratic realist” theories of voting, while citizens’ theories are more optimistic and policy-oriented. 
+
 
 
