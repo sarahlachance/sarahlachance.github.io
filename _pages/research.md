@@ -10,10 +10,12 @@ header:
 
 # Forthcoming
 
+
 Politicians’ Theories of Voting Behaviour (with Jack Lucas et al.), in _American Political Science Review_
 
 
 # In progress
+
 
 ## Canadian Politics
 
@@ -24,6 +26,11 @@ Party or Policy? The Role of Policy Partisanship in Voter Decision-Making (with 
 Support for Basic Income: the Reciprocity Norm (with Richard Johnston and Alan Jacobs)
 
 Language Model Agents as Synthetic Samples: Predicting Vote Choice in the 2021 Canadian Federal Elections (With Mitchell Bosley and Peter J. Loewen)
+
+
+## Political Psychology
+
+Foraging for Policy: Ambiguity as a Heuristic
 
 
 ## Democratic Representation
