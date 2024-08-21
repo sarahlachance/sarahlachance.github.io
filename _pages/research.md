@@ -8,14 +8,14 @@ header:
 ---
 
 
-## Forthcoming
+# Forthcoming
 
 Politicians’ Theories of Voting Behaviour (with Jack Lucas et al.), in _American Political Science Review_
 
 
-## In progress
+# In progress
 
-# Canadian Politics
+## Canadian Politics
 
 Left and Right Ideological Labels as a Voter Heuristic: the Canadian Case
 
@@ -26,6 +26,6 @@ Support for Basic Income: the Reciprocity Norm (with Richard Johnston and Alan J
 Language Model Agents as Synthetic Samples: Predicting Vote Choice in the 2021 Canadian Federal Elections (With Mitchell Bosley and Peter J. Loewen)
 
 
-# Democratic Representation
+## Democratic Representation
 
 Is Representation in Practice Threatened by Rising Elite Polarization? (with Peter J. Loewen)
