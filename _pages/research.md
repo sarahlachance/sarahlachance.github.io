@@ -32,6 +32,7 @@ Language Model Agents as Synthetic Samples: Predicting Vote Choice in the 2021 C
 
 Foraging for Policy: Ambiguity as a Heuristic
 
+Artificial Influence: Can AI Reduce Belief Certainty?} (With Natasha Goel and the PEARL lab)
 
 ### Democratic Representation
 
