@@ -16,6 +16,12 @@ author_profile: true
 {% endfor %}
 
 ## Peer-reviewed
+[Politicians’ Theories of Voting Behavior](https://t.co/XnJyneGAuZ) (with Jack Lucas et al.)
+
+Published in _American Political Science Review_, 2024
+
+While political scientists regularly engage in spirited theoretical debates about elections and voting behavior, few have noticed that elected politicians also have theories of elections and voting. Here, we investigate politicians’ positions on eight central theoretical debates in the area of elections and voting behavior and compare politicians’ theories to those held by ordinary citizens. Using data from face-to-face interviews with nearly one thousand politicians in 11 countries, together with corresponding surveys of more than twelve thousand citizens, we show that politicians overwhelmingly hold thin, minimalist, “democratic realist” theories of voting, while citizens’ theories are more optimistic and policy oriented. Politicians’ theoretical tendencies—along with their theoretical misalignment from citizens—are remarkably consistent across countries. These theories are likely to have important consequences for how politicians campaign, communicate with the public, think about public policy, and represent their constituents.
+
 
 [Group-based Affect and the Canadian Party System](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/groupbased-affect-and-the-canadian-party-system/94882AB254E51E915124914C015A5BAD?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) (with Edana Beauvais)
 
