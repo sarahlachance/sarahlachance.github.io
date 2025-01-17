@@ -8,12 +8,6 @@ header:
 ---
 
 
-## Forthcoming
-
-
-Politicians’ Theories of Voting Behaviour (with Jack Lucas et al.), in _American Political Science Review_
-
-
 ## In progress
 
 
