@@ -11,7 +11,7 @@ header:
 
 Party or Policy? The Role of Policy Partisanship in Voter Decision-Making (with Clareta Treger, Thomas Bergeron, Thomas Galipeau, Mujahedul Islam, Blake Lee-Whiting, Beatrice Magistro, Peter J. Loewen)
 
-Artificial Influence: Can AI Reduce Belief Certainty? (With Natasha Goel and the PEARL lab)
+Artificial Influence: Can AI Reduce Belief Certainty? (With Natasha Goel, Thomas Bergeron, Blake Lee-Whiting, Clareta Treger, thomas galipeau, Md. Mujahedul Islam, Danielle Bohonos, and Eric Merkley)
 
 
 ## In progress
