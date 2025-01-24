@@ -7,26 +7,28 @@ header:
   teaser: /images/question.png
 ---
 
-
-## In progress
-
-
-### Canadian Politics
-
-Left and Right Ideological Labels as a Voter Heuristic: the Canadian Case
+## Under Review
 
 Party or Policy? The Role of Policy Partisanship in Voter Decision-Making (with Clareta Treger, Thomas Bergeron, Thomas Galipeau, Mujahedul Islam, Blake Lee-Whiting, Beatrice Magistro, Peter J. Loewen)
 
-Support for Basic Income: the Reciprocity Norm (with Richard Johnston and Alan Jacobs)
+Artificial Influence: Can AI Reduce Belief Certainty? (With Natasha Goel and the PEARL lab)
 
-Language Model Agents as Synthetic Samples: Predicting Vote Choice in the 2021 Canadian Federal Elections (With Mitchell Bosley and Peter J. Loewen)
+
+## In progress
+
+### Canadian Politics
+
+Do Voters Think Ideologically? No, but They Rely on Candidates’ “Left” and “Right” Labels to Infer Their Policies
+
+Local Economic Shocks and Support for Redistribution} (with Sophie Borwein and Alan Jacobs)
+
+Using Generative AI to Simulate 1000 Canadian Voters (With Mitchell Bosley and Peter J. Loewen)
 
 
 ### Political Psychology
 
 Foraging for Policy: Ambiguity as a Heuristic
 
-Artificial Influence: Can AI Reduce Belief Certainty? (With Natasha Goel and the PEARL lab)
 
 ### Democratic Representation
 
